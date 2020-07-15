@@ -1,0 +1,13 @@
+{
+  "db": {
+    "host": "atlas-gzeyr8-shard-0/dbcluster",
+    "port": 27017,
+    "url": "mongodb+srv://electronjhon:Angel123@dbcluster.cpc5q.mongodb.net/api_books?retryWrites=true&w=majority",
+    "database": "api_books",
+    "password": "Angel123",
+    "name": "db",
+    "user": "electronjhon",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
